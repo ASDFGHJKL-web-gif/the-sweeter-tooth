@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Sweeter Tooth</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to The Sweeter Tooth</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Recipes</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h2>Discover Sweet Delights</h2>
+            <p>Your go-to place for delicious desserts and baking inspiration.</p>
+        </section>
+
+        <section class="featured-recipes">
+            <h2>Featured Recipes</h2>
+            <ul>
+                <li><a href="#">Chocolate Cake</a></li>
+                <li><a href="#">Cupcakes</a></li>
+                <li><a href="#">Macarons</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 The Sweeter Tooth. All rights reserved.</p>
+    </footer>
+</body>
+</html>
